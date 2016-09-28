@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+  font-style: oblique;;
+  font-weight: bolder;
+  text-align: right;
+}
+
+p {
+  color: grey;
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 40px;
+}
